@@ -18,6 +18,8 @@ django-taggit = "*"
 django-adminlte-ui = "*"
 django-coreapi = "*"
 pyyaml = "*"
+django-filter = "*"
+djangorestframework = "*"
 
 [requires]
 python_version = "3.7"
