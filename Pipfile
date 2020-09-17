@@ -20,6 +20,7 @@ django-coreapi = "*"
 pyyaml = "*"
 django-filter = "*"
 djangorestframework = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.7"
