@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "==2.2.16"
+pymysql = "*"
+pillow = "*"
+mysqlclient = "*"
+markdown = "*"
+pygments = "*"
+django-markdownx = "*"
+django-contrib-comments = "*"
+django-taggit = "*"
+django-adminlte-ui = "*"
+django-coreapi = "*"
+pyyaml = "*"
+
+[requires]
+python_version = "3.7"
